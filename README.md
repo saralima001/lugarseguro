@@ -22,7 +22,7 @@ Site institucional da ONG Lugar Seguro.
 <a name="visitar"/>
 
 ## Visitar o Site
-<a target="_blank" href="http://limaprogramming.atwebpages.com/LugarSeguro/"> Lugar Seguro </a>
+<a target="_blank" rel="noopener noreferrer" href="http://limaprogramming.atwebpages.com/LugarSeguro/"> Lugar Seguro </a>
 
 <a name="status"/>
 
